@@ -1,6 +1,6 @@
 MegaHAL module for eggdrop
-Version 3.5
-By Jason Hutchens and Zev ^Baron^ Toledano (megahal2 at thelastexit dot net)
+Version 4.1
+By Jason Hutchens and Zev ^Baron^ Toledano (megahal2 at thelastexit dot net) and ArNz|8o8
 
 Artificially Intelligent conversation with learning capability and
 psychotic personality.
